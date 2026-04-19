@@ -28,7 +28,7 @@ This repository contains the first eight core projects from the **Python Data Sc
 * **Machine Learning Modeling:** Choosing a model then fine tuning it
 ---
 
-## 📂 Project Index (1–8)
+## Project Index (1–8)
 
 ### Phase 1: The Movies Dataset (Projects 1–5)
 *These projects focus on building a data pipeline for a complex movie metadata collection.*
